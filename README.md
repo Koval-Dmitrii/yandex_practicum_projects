@@ -9,7 +9,7 @@
 | [Рекомендация тарифов](tariff_recommendation) | На основе данных предложить клиенту тариф.| *Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, DTC, RFC, LR* |
 | [Отток клиентов](customer_churn) | На основе данных из банка определить клиент, который может уйти.| *Python, Pandas, Matplotlib, Scikit-learn, MinMaxScaler, OHE, StandartScaler, GridSearchCV, LR, RFC, DTC* |
 | [Выбор локации для скважины](location_for_well) | На основе данных геологи разведки выбрать район добычи нефти.| *Python, Pandas, NumPy, Seaborn, Matplotlib, Scipy Scikit-learn, Bootstrap, StandardScaler, GridSearchCV, LR* |
-| [Восстановление золота из руды](big_cities_music) | Спрогнозировать концентрацию золота при проведении процесса очистки золота.| *Python, Pandas, Seaborn, Matplotlib, NumPy, Scikit-learn, Cross-Validation, DTR, RFR, LR* |
+| [Восстановление золота из руды](recovery_gold_from_ore) | Спрогнозировать концентрацию золота при проведении процесса очистки золота.| *Python, Pandas, Seaborn, Matplotlib, NumPy, Scikit-learn, Cross-Validation, DTR, RFR, LR* |
 | [Защита персональных данных клиентов](big_cities_music) | Разработка модели анонимизации персональных данных.| *Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, tqdm* |
 | [Определение стоимости автомобилей](big_cities_music) | Разработка системы рекомендации стоимости автомобиля на основе его описания.| *Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost* |
 | [Прогнозирование заказов такси](big_cities_music) | Разработка системы предсказания объема заказа..| *Python, Pandas, Matplotlib, Seaborn, LightGBM Scikit-learn, statsmodels* |
