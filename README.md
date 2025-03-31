@@ -1,2 +1,18 @@
 # Проекты с курса "Специалист по Data Science"
-https://concrete-web-bad.notion.site/295425559b004464b87204a713cad06b?v=557db06f3aa74d56a7181aad22cd7782&pvs=4
+| Название проекта | Задачи проекта | Навыки и инструменты | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Музыка больших городов](big_cities_music) | На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга.| *Python, Pandas* |
+| [Исследование надежности заемщиков](big_cities_music) | На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок.| *Python, Pandas, EDA* |
+| [Исследование объявлений о продаже квартир](big_cities_music) | Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир.| *Python, Pandas, Matplotlib, EDA, Data Visualization, Data Preprocessing* |
+| [Статистический анализ данных](big_cities_music) | На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа.| *Python, Pandas, Matplotlib, Numpy, Scipy, EDA, описательная статистика, проверка статистических гипотез* |
+| [Исследование закономерностей, определяющих успешность игры](big_cities_music) | На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа.| *Python, Pandas, Matplotlib, Seaborn, Numpy, Scipy, EDA, Data Vizualization, описательная статистика, проверка статистических гипотез, исследовательский анализ данных* |
+| [Рекомендация тарифов](big_cities_music) | На основе данных предложить клиенту тариф.| *Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, DTC, RFC, LR* |
+| [Отток клиентов](big_cities_music) | На основе данных из банка определить клиент, который может уйти.| *Python, Pandas, Matplotlib, Scikit-learn, MinMaxScaler, OHE, StandartScaler, GridSearchCV, LR, RFC, DTC* |
+| [Выбор локации для скважины](big_cities_music) | На основе данных геологи разведки выбрать район добычи нефти.| *Python, Pandas, NumPy, Seaborn, Matplotlib, Scipy Scikit-learn, Bootstrap, StandardScaler, GridSearchCV, LR* |
+| [Восстановление золота из руды](big_cities_music) | Спрогнозировать концентрацию золота при проведении процесса очистки золота.| *Python, Pandas, Seaborn, Matplotlib, NumPy, Scikit-learn, Cross-Validation, DTR, RFR, LR* |
+| [Защита персональных данных клиентов](big_cities_music) | Разработка модели анонимизации персональных данных.| *Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, tqdm* |
+| [Определение стоимости автомобилей](big_cities_music) | Разработка системы рекомендации стоимости автомобиля на основе его описания.| *Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost* |
+| [Прогнозирование заказов такси](big_cities_music) | Разработка системы предсказания объема заказа..| *Python, Pandas, Matplotlib, Seaborn, LightGBM Scikit-learn, statsmodels* |
+| [Проект для Викишоп](big_cities_music) | Определение токсичности комментарии.| *Python, Pandas, Seaborn, Matplotlib, Scikit-learn, re, nltk, spacy, tqdm, tf-idf, Pipeline, GridSearch, LR, SGDC, DTC* |
+| [Определение возраста покупателей](big_cities_music) | Определение возраста по фотографии.| *Python, Pandas, Numpy, Matplotlib, Keras, ResNet50, Adam* |
+| [Предсказание температуры стали](big_cities_music) | Сделать прогноз температуры стали во время плавки.| *Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, CatBoost, LightGBM, XGBoost, GridSearchCV, RandomizedSearchCV, Pipeline, LR, StandardScaler, MinMaxScaler, RobustScaler, RFR, PolinomialFeatures* |
