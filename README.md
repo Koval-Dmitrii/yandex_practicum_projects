@@ -14,5 +14,5 @@
 | [Определение стоимости автомобилей](cost_of_cars) | Разработка системы рекомендации стоимости автомобиля на основе его описания.| *Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost* |
 | [Прогнозирование заказов такси](forecast_taxi_orders) | Разработка системы предсказания объема заказа..| *Python, Pandas, Matplotlib, Seaborn, LightGBM Scikit-learn, statsmodels* |
 | [Проект для Викишоп](project_for_Wikishop) | Определение токсичности комментарии.| *Python, Pandas, Seaborn, Matplotlib, Scikit-learn, re, nltk, spacy, tqdm, tf-idf, Pipeline, GridSearch, LR, SGDC, DTC* |
-| [Определение возраста покупателей](big_cities_music) | Определение возраста по фотографии.| *Python, Pandas, Numpy, Matplotlib, Keras, ResNet50, Adam* |
+| [Определение возраста покупателей](determ_age_of_buyers) | Определение возраста по фотографии.| *Python, Pandas, Numpy, Matplotlib, Keras, ResNet50, Adam* |
 | [Предсказание температуры стали](big_cities_music) | Сделать прогноз температуры стали во время плавки.| *Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, CatBoost, LightGBM, XGBoost, GridSearchCV, RandomizedSearchCV, Pipeline, LR, StandardScaler, MinMaxScaler, RobustScaler, RFR, PolinomialFeatures* |
