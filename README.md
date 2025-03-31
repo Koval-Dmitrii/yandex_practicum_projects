@@ -1,1 +1,1 @@
-# yandex_practicum_projects
+# Проекты с курса "Специалист по Data Science"
