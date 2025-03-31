@@ -12,7 +12,7 @@
 | [Восстановление золота из руды](recovere_gold_from_ore) | Спрогнозировать концентрацию золота при проведении процесса очистки золота.| *Python, Pandas, Seaborn, Matplotlib, NumPy, Scikit-learn, Cross-Validation, DTR, RFR, LR* |
 | [Защита персональных данных клиентов](protect_data_of_clients) | Разработка модели анонимизации персональных данных.| *Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, tqdm* |
 | [Определение стоимости автомобилей](cost_of_cars) | Разработка системы рекомендации стоимости автомобиля на основе его описания.| *Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost* |
-| [Прогнозирование заказов такси](big_cities_music) | Разработка системы предсказания объема заказа..| *Python, Pandas, Matplotlib, Seaborn, LightGBM Scikit-learn, statsmodels* |
-| [Проект для Викишоп](big_cities_music) | Определение токсичности комментарии.| *Python, Pandas, Seaborn, Matplotlib, Scikit-learn, re, nltk, spacy, tqdm, tf-idf, Pipeline, GridSearch, LR, SGDC, DTC* |
+| [Прогнозирование заказов такси](forecast_taxi_orders) | Разработка системы предсказания объема заказа..| *Python, Pandas, Matplotlib, Seaborn, LightGBM Scikit-learn, statsmodels* |
+| [Проект для Викишоп](project_for_Wikishop) | Определение токсичности комментарии.| *Python, Pandas, Seaborn, Matplotlib, Scikit-learn, re, nltk, spacy, tqdm, tf-idf, Pipeline, GridSearch, LR, SGDC, DTC* |
 | [Определение возраста покупателей](big_cities_music) | Определение возраста по фотографии.| *Python, Pandas, Numpy, Matplotlib, Keras, ResNet50, Adam* |
 | [Предсказание температуры стали](big_cities_music) | Сделать прогноз температуры стали во время плавки.| *Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, CatBoost, LightGBM, XGBoost, GridSearchCV, RandomizedSearchCV, Pipeline, LR, StandardScaler, MinMaxScaler, RobustScaler, RFR, PolinomialFeatures* |
